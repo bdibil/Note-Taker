@@ -1,13 +1,18 @@
 {
   "name": "note-taker",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.1.0",
+  "description": "An Express.js - Note Taker",
   "main": "server.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Bernardo Dibildox",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bdibil/Note-Taker"
+  },
   "dependencies": {
     "express": "^4.16.4"
   }
