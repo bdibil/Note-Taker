@@ -5,7 +5,7 @@
 - It uses an Express.js back-end and saves and retrieves note data from a JSON file
 - The application is deployed in Heroku at the link below:
 
-  [link](url)
+  [Note Taker BD](https://note-taker-bd.herokuapp.com/)
 
 
 ## Table of Contents 
