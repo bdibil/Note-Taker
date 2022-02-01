@@ -24,7 +24,7 @@ To use this application:
 
 ## Screenshot
 
-![}(public/assets/capture.png)
+![](public/assets/Capture.png)
 
 
 ## License  
