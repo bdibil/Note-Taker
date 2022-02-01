@@ -21,8 +21,10 @@ To use this application:
 3. Click the Save icon at the top of the page in the navigation bar
 4. Your new note now appears in the left-hand column with any other existing notes
 
-- You can add as many notes as needed by clicking on the Write icon at the top of the navigation bar
-- Clicking on an existing note from the list in the left-hand column will show it on the right-hand column to make edits 
+
+## Screenshot
+
+![](public/assets/Capture.png)
 
 
 ## License  
