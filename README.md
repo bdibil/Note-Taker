@@ -1,4 +1,4 @@
-# Express.js - Note Taker <Express.js - Note Taker>
+# Express.js - Note Taker
   
 ## Description  
 - Note-taking application that can be used to write and save notes 
@@ -24,7 +24,7 @@ To use this application:
 
 ## Screenshot
 
-![](public/assets/Capture.png)
+![](public/assets/capture.png)
 
 
 ## License  
